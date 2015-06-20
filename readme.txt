@@ -15,12 +15,14 @@ License: GPLv2 or later
 Adds a tabbed menu, to widgets admin area for woosidebars. 
 
 == Description ==
+
 Adds a tabbed menu, to widgets admin area for woosidebars. 
 
 The Conditional pages are displayed in the widget admin page as tabs. Sidebars are added and removed based on the users selection. This helps greatly with a site that may have many conditional widget-areas, as they can now be filtered in and out to be more aesthetically pleasing and easier to use.
 
 The Plugin does not require configuration and its functionality can be viewed on the admin widgets page after a woosidebar has been added. 
 
+NB: This plugin requires https://wordpress.org/plugins/woosidebars/ to be installed.
 == Installation ==
 
 1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
